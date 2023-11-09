@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "title": "Mouse Logitech",
+    "description": "Mouse para videojuegos de alta sensibilidad",
+    "price": 2000,
+    "thumbnail": "imgLogi.jpg",
+    "code": 2,
+    "stock": 1560
+  },
+  {
+    "id": 3,
+    "title": "Teclado mecanico Hyperx",
+    "description": "Teclado gamer de alta respuesta y piezas intercambiables",
+    "price": 6000,
+    "thumbnail": "imgHyper.jpg",
+    "code": 3,
+    "stock": 1250
+  },
+  {
+    "id": 4,
+    "title": "Astro a50",
+    "description": "Audifonos Gamer inalambricos compatibles con PC, Xbox y PS",
+    "price": 5999,
+    "thumbnail": "imgAstro.jpg",
+    "code": 4,
+    "stock": 1555
+  },
+  {
+    "id": 5,
+    "title": "Xbox Series X",
+    "description": "Consola de videojuegos de alta gama",
+    "price": 12000,
+    "thumbnail": "imgXbox.jpg",
+    "code": 5,
+    "stock": 6050
+  },
+  {
+    "id": 6,
+    "title": "Monitor Asus",
+    "description": "Monitor Gamer de alta resolucion y refresco 144Hz",
+    "price": 10000,
+    "thumbnail": "imgAsus.jpg",
+    "code": 1,
+    "stock": 2005
+  }
+]
