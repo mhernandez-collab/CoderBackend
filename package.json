@@ -1,6 +1,26 @@
 {
   "dependencies": {
     "express": "^4.18.2",
-    "node": "^21.1.0"
-  }
+    "node": "^21.1.0",
+    "uuid": "^9.0.1"
+  },
+  "name": "coder-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhernandez-collab/CoderBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhernandez-collab/CoderBackend/issues"
+  },
+  "homepage": "https://github.com/mhernandez-collab/CoderBackend#readme",
+  "description": ""
 }

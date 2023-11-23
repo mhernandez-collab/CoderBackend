@@ -7,8 +7,8 @@ class ProductManager {
         this.productId = this.products.length > 0 ? this.products[this.products.length - 1].id + 1 : 1;
     }
 
-    addProduct(title, description, price, thumbnail, code, stock) {
-        if (!title || !description || !price || !thumbnail || !code || !stock) {
+    addProduct(title, description, price, code, status, stock) {
+        if (!title || !description || !price || !code || !stock) {
             throw new Error("Todos los campos son obligatorios");
         }
 
@@ -22,7 +22,6 @@ class ProductManager {
             title: title,
             description: description,
             price: price,
-            thumbnail: thumbnail,
             code: code,
             stock: stock
         };
