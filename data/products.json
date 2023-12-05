@@ -1,23 +1,5 @@
 [
   {
-    "id": 2,
-    "title": "Mouse Logitech",
-    "description": "Mouse para videojuegos de alta sensibilidad",
-    "price": 2000,
-    "thumbnail": "imgLogi.jpg",
-    "code": 2,
-    "stock": 1560
-  },
-  {
-    "id": 4,
-    "title": "Astro a50",
-    "description": "Audifonos Gamer inalambricos compatibles con PC, Xbox y PS",
-    "price": 5999,
-    "thumbnail": "imgAstro.jpg",
-    "code": 4,
-    "stock": 1555
-  },
-  {
     "id": 5,
     "title": "Xbox Series X",
     "description": "Consola de videojuegos de alta gama",
@@ -37,21 +19,11 @@
   },
   {
     "id": 7,
-    "title": {
-      "title": "Monitor LG",
-      "description": "Descripción prueba",
-      "code": "123",
-      "price": 19.99,
-      "status": true,
-      "stock": 10
-    }
-  },
-  {
-    "id": 8,
-    "title": "Test Producto",
-    "description": "Descripción del Producto",
+    "title": "Monitor LG",
+    "description": "Descripción prueba",
+    "code": "123",
     "price": 19.99,
-    "code": "ABC123",
+    "status": true,
     "stock": 10
   },
   {
@@ -61,5 +33,13 @@
     "price": 9.99,
     "code": "124",
     "stock": 100
+  },
+  {
+    "id": 10,
+    "title": "testRealTimeProduct",
+    "description": "Producto agregado desde HTML ",
+    "price": "8",
+    "code": "3e3",
+    "stock": "1"
   }
 ]
